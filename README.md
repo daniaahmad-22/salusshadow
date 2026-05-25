@@ -1,7 +1,7 @@
 # 🌑 SalusShadow
 
 **Urban shade analysis from OpenStreetMap + solar geometry.**  
-Compute which sidewalks are in shade, score shade potential across a neighborhood, or query a single point in real time.
+Compute which sidewalks are in shade, score shade potential across a neighborhood, or query a single point in real time. Read a blog version here at https://korawichmawinkavee.medium.com/i-built-a-web-app-that-tells-you-how-much-shade-a-street-has-and-it-was-harder-than-i-expected-52b81879467d?postPublishedType=repub
 
 🌐 **[Live Demo →](https://cmu-salus-lab.github.io/salusshadow/)**  
 📡 **[API →](https://salusshadow-api.onrender.com/)**
