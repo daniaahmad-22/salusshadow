@@ -568,7 +568,7 @@ const DEFAULT_LAT = 42.3601, DEFAULT_LON = -71.0589;
 
 const map = L.map('map', { zoomControl: true }).setView([DEFAULT_LAT, DEFAULT_LON], 16);
 
-L.tileLayer('https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key=YOUR_CARTO_KEY', {
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; OpenStreetMap, &copy; CARTO',
   maxZoom: 19,
 }).addTo(map);
